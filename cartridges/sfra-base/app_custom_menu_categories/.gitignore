@@ -1,0 +1,16 @@
+node_modules/
+
+cartridges/app_custom_menu_categories/cartridge/static/*/css/
+cartridges/app_custom_menu_categories/cartridge/static/*/js/
+cartridges/app_custom_menu_categories/cartridge/static/*/fonts/
+
+node_modules/
+coverage/
+npm-debug.log
+cartridges.zip
+.idea/
+dw.json
+.DS_Store
+tmp/
+/.vscode
+test/integration/config.json
